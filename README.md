@@ -1,4 +1,4 @@
-# AdaptiveTrader
+# Adaptive Trader(A Bot Auto-Manager Tool)
 A personal tool meant for handling crypto trading bots easily. Mainly switching between SHORT and LONG bots without having to manually turn one off and the other on.
 
 I might add features over time, not 100% sure. For now its mainly meant to just turn one bot on and another bot off. It could potentially be scaled to an almost infinite number of bots depending on how you write your DecideStrategy() function.
